@@ -29,13 +29,11 @@
 
 ## 📸 运行截图 (Screenshots)
 
-![[Pasted image 20260412163302.png]]
-
 *图 1：双层智能防火墙成功拦截高级注入攻击*
+![防火墙拦截](images/firewall.png)
 
-
-**![[Pasted image 20260412163338.png]]**
 *图 2：批量自动化审计引擎运行报表*
+![审计报表](images/report.png)
 
 ## ⚙️ 快速开始 (Quick Start)
 
